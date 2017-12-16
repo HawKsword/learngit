@@ -1,1 +1,1 @@
-git --- version control system
+git --- distributed version control system
